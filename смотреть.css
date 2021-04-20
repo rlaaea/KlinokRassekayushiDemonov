@@ -1,0 +1,14 @@
+body{
+    background-image: url(./img/3a4b23fbfdfb67cae6068c3cb2bdc5d4.jpg);
+}
+body img{
+    width: 50%;
+}
+section{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 50px;
+}
+section .last .card{
+    text-align: center;
+}
